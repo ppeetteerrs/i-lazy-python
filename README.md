@@ -1,3 +1,5 @@
+![](https://img.shields.io/pypi/v/i-lazy) ![](https://img.shields.io/pypi/pyversions/i-lazy)
+
 # i-lazy Python
 
 | Feature                    | Description                                                                                                                     | Status   |
